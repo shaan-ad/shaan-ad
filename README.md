@@ -6,6 +6,7 @@ Most of my work is hands-on: working tools, open-source plugins, and real system
 
 ## What I Build
 
+- **[The Cabinet](https://github.com/shaan-ad/the-cabinet)**: 26 AI executive personas for Claude Code and Cowork. A CEO, CFO, CTO, Reality Checker, and 22 more. Point any decision at The Cabinet and get perspectives from every leadership angle.
 - **[PM-OS](https://github.com/shaan-ad/pm-os)**: An AI operating system for product managers. 27 skills that turn Claude Code into a full PM workflow engine: PRDs, prioritization, OKRs, sprint scoping, launch plans, and more.
 - **[Medfold](https://github.com/shaan-ad/Medfold)**: A secure iOS app for storing and analyzing personal health records with AI. Built with SwiftUI, Supabase, and provider-agnostic AI integration.
 
