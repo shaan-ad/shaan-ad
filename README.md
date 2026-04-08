@@ -1,21 +1,23 @@
 # Hi, I'm Shaan
 
-I build AI tools that close the gap between people building AI and people deciding where to invest in it.
+I build AI tools for people who lead teams, ship products, and make decisions under uncertainty.
 
-Most of my work is hands-on: working tools, open-source plugins, and real systems that product leaders and builders can use right away.
+Everything here is open source and working. No demos, no slides, no waitlists.
 
 ## What I Build
 
-- **[The Cabinet](https://github.com/shaan-ad/the-cabinet)**: 26 AI executive personas for Claude Code and Cowork. A CEO, CFO, CTO, Reality Checker, and 22 more. Point any decision at The Cabinet and get perspectives from every leadership angle.
-- **[PM-OS](https://github.com/shaan-ad/pm-os)**: An AI operating system for product managers. 27 skills that turn Claude Code into a full PM workflow engine: PRDs, prioritization, OKRs, sprint scoping, launch plans, and more.
-- **[Medfold](https://github.com/shaan-ad/Medfold)**: A secure iOS app for storing and analyzing personal health records with AI. Built with SwiftUI, Supabase, and provider-agnostic AI integration.
+| Project | What it does |
+|---------|-------------|
+| **[PM-OS](https://github.com/shaan-ad/pm-os)** | AI operating system for product managers. 27 skills that turn Claude Code into a full PM workflow engine. |
+| **[Health Agents](https://github.com/shaan-ad/health-agents)** | HIPAA-compliant multi-agent orchestration for healthcare. PHI detection, access control, and audit logging built into every agent action. |
+| **[Accessible AutoAgent](https://github.com/shaan-ad/accessible-autoagent)** | Meta-agent that generates, tests, and iterates on AI agent harnesses from plain English. No Docker, no benchmarks. |
+| **[The Cabinet](https://github.com/shaan-ad/the-cabinet)** | 26 AI executive personas for Claude Code. Point any decision at the cabinet and get perspectives from every leadership angle. |
+| **[Medfold](https://github.com/shaan-ad/Medfold)** | Secure iOS app for personal health records with AI-powered analysis. Swift, Supabase, provider-agnostic AI. |
+| **[SimplifAI](https://github.com/shaan-ad/simplif-ai)** | Interactive guide to 10 AI concepts every leader needs to know. |
 
-## What I Work On
+## What ties this together
 
-- AI tools for product leaders and builders
-- Multi-agent orchestration for regulated industries (HealthTech)
-- Making agent-building accessible to non-engineers
-- The [Role OS](https://github.com/shaan-ad/pm-os) suite: AI operating systems for every leadership function
+I keep coming back to the same problem: AI tools are built for engineers, but the people who need them most are product leaders, clinicians, and executives. Every project here is an attempt to close that gap, whether it's giving PMs an AI copilot, making agent-building accessible, or bringing compliance-aware orchestration to healthcare.
 
 ## Connect
 
