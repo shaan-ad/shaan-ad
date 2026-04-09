@@ -4,8 +4,6 @@ I'm a product leader and builder. By day, I work on AI strategy at PointClickCar
 
 Currently studying AI at Stanford. CS from the University of Illinois. Management from MIT Sloan.
 
-[LinkedIn](https://www.linkedin.com/in/shaan-agara/) | [Website](https://shaanagara.com)
-
 ---
 
 ## What I build
