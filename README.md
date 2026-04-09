@@ -2,6 +2,8 @@
 
 I'm a product leader and builder. By day, I work on AI strategy at PointClickCare. Outside of that, I build and open-source AI tools for product leaders and decision-makers.
 
+I've been a product executive for six years. Before PointClickCare, I led both product and engineering for a startup that was eventually acquired, and played a key role in making that acquisition happen.
+
 Currently studying AI at Stanford. CS from the University of Illinois. Management from MIT Sloan.
 
 ---
