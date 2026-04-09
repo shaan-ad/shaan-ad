@@ -12,7 +12,7 @@ Currently studying AI at Stanford. CS from the University of Illinois. Managemen
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| **[Agent Watch](https://github.com/shaan-ad/agent-watch)** | Observability for AI agents. Cost, latency, and success rates with zero framework lock-in. | Python |
+| **[Agent Watch](https://github.com/shaan-ad/agent-watch)** | Know what your agents cost before you get the bill. Two decorators, one CLI, zero config. The tool you use before you need an observability tool. | Python |
 | **[Health Agents](https://github.com/shaan-ad/health-agents)** | HIPAA-compliant multi-agent orchestration. PHI detection, access control, and audit logging. | TypeScript, Node.js |
 | **[Accessible AutoAgent](https://github.com/shaan-ad/accessible-autoagent)** | Meta-agent that generates and iterates on AI agent harnesses from plain English. | Python |
 | **[Medfold](https://github.com/shaan-ad/Medfold)** | Secure iOS app for personal health records with AI-powered analysis and chat. | Swift, SwiftUI, Supabase |
